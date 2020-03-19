@@ -7,20 +7,30 @@ extremely online in the time of COVID-19
 [zoom.us](http://zoom.us)
 
 ## games
-[tabletopia.com](http://tabletopia.com)
+[Tabletopia](http://tabletopia.com): Online board gaming platform with 600+ games.
 
 ## culture
-[https://cityofberkeley.kanopy.com/](https://cityofberkeley.kanopy.com/)
+[Kanopy](https://www.kanopy.com/): Stream movies today with your public library card or university login
 
-[https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/](https://operawire.com/metropolitan-opera-to-offer-up-nightly-met-opera-streams/)
+[Nightly Met Opera Streams](https://www.metopera.org/user-information/nightly-met-opera-streams/)
 
 ## health
-[http://aa-intergroup.org/directory.php](http://aa-intergroup.org/directory.php)
+[Online Intergroup: Alcoholics Anonymous](http://aa-intergroup.org/directory.php): Online AA Meetings Directory
 
 ## education
-[https://chatterbug.com/en/chatterbug-live](https://chatterbug.com/en/chatterbug-live)
+[chatterbug live!](https://chatterbug.com/en/chatterbug-live): Daily Live German Class
+
+[Mac Barnett readings](https://www.instagram.com/macbarnett/): Daily readings by Mac Barnett at 3pm EDT/12pm PDT
 
 ### conferences
-[https://www.oreilly.com/strata-san-jose-2020/](https://www.oreilly.com/strata-san-jose-2020/)
+
+## religion
+[The Cathedral of St. Philip](https://www.cathedralatl.org/worship/live-streaming/)
+
+## entertainment
+[Karaoke Camp](https://karaoke.camp/): A 24hr online karaoke party free for anyone to join.
 
 ## misc
+[DIY.org](https://diy.org/register?coupon=TOGETHER):  90% off library of hands-on projects, how-to videos, and safe learning community for kids.
+
+[Monterey Bay Aquarium Live Streams](https://www.montereybayaquarium.org/animals/live-cams)
