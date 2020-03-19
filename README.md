@@ -27,6 +27,8 @@ extremely online in the time of COVID-19
 
 [Pole & Dance Livestream Classes](http://bit.ly/poleanddancelivestream): Instructors from Oakland and SF Pole and Dance Studios for virtual classes.
 
+[Headspace meditations](https://www.headspace.com/covid-19)
+
 ## education
 [chatterbug live!](https://chatterbug.com/en/chatterbug-live): Daily Live German Class
 
@@ -50,14 +52,18 @@ extremely online in the time of COVID-19
 
 [Story Time from Space](https://storytimefromspace.com/): Astronauts read educational bedtime books from low-Earth orbit on the International Space Station to kids on Earth.
 
-[450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/
+[450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/)
 
 [LUNCH DOODLES with Mo Willems](https://www.kennedy-center.org/education/mo-willems/): Mo Willems invites YOU into his studio every day for his LUNCH DOODLE, each weekday at 1pm ET/11am PT.
+
+[Audible Stories](https://stories.audible.com/start-listen): Instantly stream an incredible collection of stories, including titles across six different languages, that will help kids continue dreaming, learning, and just being kids.
 
 ### conferences
 
 ## religion
 [The Cathedral of St. Philip](https://www.cathedralatl.org/worship/live-streaming/)
+
+[Collection of Jewish services being livestreamed](https://docs.google.com/spreadsheets/d/1Nmyndg953zD9it_SADauRu2Drz_oGaYUUArlZ1jUNNc/edit?fbclid=IwAR1PBYYkm-47RWz1leyrEcE7z33LDIEF50JlPp8EIKoYBzsSsTgy1nLaP84#gid=960275912)
 
 ## entertainment
 [Karaoke Camp](https://karaoke.camp/): A 24hr online karaoke party free for anyone to join.
