@@ -1,7 +1,8 @@
 extremely online in the time of COVID-19
 
+
 ## communication
-[https://socialsocialdistanceclub.substack.com/](https://socialsocialdistanceclub.substack.com/)
+[Social Social Distance Club](https://socialsocialdistanceclub.substack.com/): Tiny messages to help get you through the next few weeks.
 
 ### video conferencing
 [zoom.us](http://zoom.us)
@@ -76,3 +77,9 @@ extremely online in the time of COVID-19
 [Quarantine Book Club](https://www.quarantinebookclub.com/): Join your favorite authors on Zoom where you can have spirited discussions
 
 [QuarantineChat](https://quarantinechat.com/): Talk on the phone with someone else stuck at home.
+
+---
+_See something wrong or missing? [Pull requests welcome!](https://github.com/ericajoy/nowonline)_
+
+💖[@ericajoy](https://twitter.com/EricaJoy) & [@marcprecipice
+](https://twitter.com/marcprecipice)
