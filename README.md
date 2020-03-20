@@ -87,7 +87,7 @@ extremely online in the time of COVID-19
 
 [QuarantineChat](https://quarantinechat.com/): Talk on the phone with someone else stuck at home
 
-[A Little Coloring Book] (https://adobe.ly/2U3suMF): printable coloring pages 
+[A Little Coloring Book](https://adobe.ly/2U3suMF): printable coloring pages 
 
 ---
 _See something wrong or missing? [Pull requests welcome!](https://github.com/ericajoy/nowonline)_
