@@ -23,7 +23,7 @@ extremely online in the time of COVID-19
 
 [WKAR list of Live Streaming Concerts](https://www.wkar.org/post/list-live-streaming-concerts)
 
-[Seattle Symphony] (https://seattlesymphony.org/watch-listen/live): streaming of recorded performances 
+[Seattle Symphony](https://seattlesymphony.org/watch-listen/live): streaming of recorded performances 
 
 ## health and well-being
 [Online Intergroup: Alcoholics Anonymous](http://aa-intergroup.org/directory.php): Online AA Meetings Directory
@@ -87,10 +87,9 @@ extremely online in the time of COVID-19
 
 [QuarantineChat](https://quarantinechat.com/): Talk on the phone with someone else stuck at home
 
-[A Little Coloring Book] (https://adobe.ly/2U3suMF): printable coloring pages 
+[A Little Coloring Book](https://adobe.ly/2U3suMF): printable coloring pages 
 
 ---
 _See something wrong or missing? [Pull requests welcome!](https://github.com/ericajoy/nowonline)_
 
-💖[@ericajoy](https://twitter.com/EricaJoy) & [@marcprecipice
-](https://twitter.com/marcprecipice)
+💖[@ericajoy](https://twitter.com/EricaJoy) & [@marcprecipice](https://twitter.com/marcprecipice)
