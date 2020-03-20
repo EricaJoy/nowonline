@@ -23,7 +23,7 @@ extremely online in the time of COVID-19
 
 [WKAR list of Live Streaming Concerts](https://www.wkar.org/post/list-live-streaming-concerts)
 
-[Seattle Symphony] (https://seattlesymphony.org/watch-listen/live): streaming of recorded performances 
+[Seattle Symphony](https://seattlesymphony.org/watch-listen/live): streaming of recorded performances 
 
 ## health and well-being
 [Online Intergroup: Alcoholics Anonymous](http://aa-intergroup.org/directory.php): Online AA Meetings Directory
