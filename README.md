@@ -69,6 +69,10 @@ extremely online in the time of COVID-19
 ## entertainment
 [Karaoke Camp](https://karaoke.camp/): A 24hr online karaoke party free for anyone to join.
 
+## music
+
+[Tune Supply](https://tune.supply/): An online hub for customized traditional music + dance performance and lessons.
+
 ## misc
 [DIY.org](https://diy.org/register?coupon=TOGETHER):  90% off library of hands-on projects, how-to videos, and safe learning community for kids.
 
