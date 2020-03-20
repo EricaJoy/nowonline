@@ -23,6 +23,8 @@ extremely online in the time of COVID-19
 
 [WKAR list of Live Streaming Concerts](https://www.wkar.org/post/list-live-streaming-concerts)
 
+[Seattle Symphony] (https://seattlesymphony.org/watch-listen/live): streaming of recorded performances 
+
 ## health and well-being
 [Online Intergroup: Alcoholics Anonymous](http://aa-intergroup.org/directory.php): Online AA Meetings Directory
 
@@ -31,6 +33,8 @@ extremely online in the time of COVID-19
 [Pole & Dance Livestream Classes](http://bit.ly/poleanddancelivestream): Instructors from Oakland and SF Pole and Dance Studios for virtual classes.
 
 [Headspace meditations](https://www.headspace.com/covid-19)
+
+[Cleveland Inner City Ballet](https://www.clevelandinnercityballet.org/pink-tutu-outreach-company): Free live-stream ballet class (for children)
 
 ## education
 [chatterbug live!](https://chatterbug.com/en/chatterbug-live): Daily Live German Class
@@ -61,6 +65,9 @@ extremely online in the time of COVID-19
 
 [Audible Stories](https://stories.audible.com/start-listen): Instantly stream an incredible collection of stories, including titles across six different languages, that will help kids continue dreaming, learning, and just being kids.
 
+[Scholastic Learn At Home](https://classroommagazines.scholastic.com/support/learnathome.html): cross-curricular lessons for pre-k - 9th grade
+
+
 ### conferences
 
 ## religion
@@ -78,7 +85,9 @@ extremely online in the time of COVID-19
 
 [Quarantine Book Club](https://www.quarantinebookclub.com/): Join your favorite authors on Zoom where you can have spirited discussions
 
-[QuarantineChat](https://quarantinechat.com/): Talk on the phone with someone else stuck at home.
+[QuarantineChat](https://quarantinechat.com/): Talk on the phone with someone else stuck at home
+
+[A Little Coloring Book] (https://adobe.ly/2U3suMF): printable coloring pages 
 
 ---
 _See something wrong or missing? [Pull requests welcome!](https://github.com/ericajoy/nowonline)_
