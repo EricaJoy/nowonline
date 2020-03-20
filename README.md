@@ -14,6 +14,8 @@ extremely online in the time of COVID-19
 
 [Alto's Odyssey](http://altosodyssey.com/): Free until 24 Mar
 
+[Warzone](https://www.warzone.com/): Turn-based online board game inspired by Hasbro's RISK®
+
 ## culture
 [Kanopy](https://www.kanopy.com/): Stream movies today with your public library card or university login
 
