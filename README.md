@@ -92,5 +92,4 @@ extremely online in the time of COVID-19
 ---
 _See something wrong or missing? [Pull requests welcome!](https://github.com/ericajoy/nowonline)_
 
-💖[@ericajoy](https://twitter.com/EricaJoy) & [@marcprecipice
-](https://twitter.com/marcprecipice)
+💖[@ericajoy](https://twitter.com/EricaJoy) & [@marcprecipice](https://twitter.com/marcprecipice)
